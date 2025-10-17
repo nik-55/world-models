@@ -4,6 +4,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Video models are zero-shot learners and reasoners | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.20328)<br>[Blog Post](https://video-zero-shot.github.io/) |
 | **Matrix-Game 2.0**: An Open-Source, Real-Time, and Streaming Interactive World Model | 18 August 2025 | [arXiv](https://arxiv.org/pdf/2508.13009)<br>[GitHub](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) |
 | **Genie 3**: A new frontier for world models | 5 August 2025 | [Blog Post](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) |
 | **YUME**: An Interactive World Generation Model | 23 July 2025 | [arXiv](https://arxiv.org/pdf/2507.17744)<br>[GitHub](https://github.com/stdstu12/YUME) |
