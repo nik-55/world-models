@@ -19,6 +19,8 @@ The following is a curated list of research, projects, and works related to the 
 | **Genie**: Generative Interactive Environments | 23 February 2024 | [Publication](https://deepmind.google/research/publications/60474/)<br>[arXiv](https://arxiv.org/pdf/2402.15391) |
 | Video generation models as world simulators (**Sora**) | 15 February 2024 | [Blog Post](https://openai.com/index/video-generation-models-as-world-simulators/) |
 
+Also checkout Magica 2 by [Dynamics lab](https://blog.dynamicslab.ai/).  It is similar to Genie 3, however unable to find much more information.
+
 The following are organizations actively involved in the development of world models
 - [Google DeepMind](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 - [SkyworkAI](https://github.com/SkyworkAI/Matrix-Game)
