@@ -4,7 +4,6 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
-| Lerobot | 14th Oct 2025 | [Code](https://github.com/huggingface/lerobot)<br>[arXiv](https://arxiv.org/pdf/2510.12403) |
 | Video models are zero-shot learners and reasoners | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.20328)<br>[Blog Post](https://video-zero-shot.github.io/) |
 | **Matrix-Game 2.0**: An Open-Source, Real-Time, and Streaming Interactive World Model | 18 August 2025 | [arXiv](https://arxiv.org/pdf/2508.13009)<br>[GitHub](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) |
 | **Genie 3**: A new frontier for world models | 5 August 2025 | [Blog Post](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) |
