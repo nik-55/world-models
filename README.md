@@ -12,6 +12,7 @@ The following is a curated list of research, projects, and works related to the 
 | **Cosmos**: World Foundation Model Platform for Physical AI | 9 July 2025 | [arXiv](https://arxiv.org/pdf/2501.03575) |
 | **Matrix-Game**: Interactive World Foundation Model | 23 June 2025 | [arXiv](https://arxiv.org/pdf/2506.18701) |
 | **Hunyuan-GameCraft**: High-dynamic Interactive Game Video Generation with Hybrid History Condition | 20 June 2025 | [Project Page](https://hunyuan-gamecraft.github.io/)<br>[arXiv](https://arxiv.org/pdf/2506.17201) |
+| **V-JEPA 2**: Self-Supervised Video Models Enable Understanding, Prediction and Planning | 11 June 2025 | [arXiv](https://arxiv.org/pdf/2506.09985)<br>[Blog Post](https://ai.meta.com/vjepa/) |
 | **Long-Context State-Space Video World Models** | 26 May 2025 | [arXiv](https://arxiv.org/pdf/2505.20171) |
 | **Genie 2**: A large-scale foundation world model | 4 December 2024 | [Blog Post](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) |
 | **Oasis**: A Universe in a Transformer | 31 October 2024 | [Project Page](https://oasis-model.github.io/)<br>[GitHub](https://github.com/etched-ai/open-oasis) |
