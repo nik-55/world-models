@@ -1,5 +1,9 @@
 A world model is a deep neural network system that learns to internally represent and simulate how the world works including its physical dynamics, objects, agents, and causal relationships so that it can predict how environments evolve and how actions will affect them. Instead of passively recognizing patterns, a world model builds an active understanding of change, enabling it to generate, imagine, and interact with coherent virtual worlds over time.
 
+I have recently find some more resources that maintain a similar list on world models. You can checkout them out as well.
+- [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model)
+- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models)
+
 The following is a curated list of research, projects, and works related to the development of world models.
 
 | Title | Date | Links |
