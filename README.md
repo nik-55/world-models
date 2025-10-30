@@ -8,6 +8,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Emu3.5: Native Multimodal Models are World Learners | 30th Oct 2025 | [Report](https://emu.world/Emu35_tech_report.pdf)<br>[Github](https://github.com/baaivision/Emu3.5) |
 | CTRL-WORLD: A CONTROLLABLE GENERATIVE WORLD MODEL FOR ROBOT MANIPULATION | 15th Oct 2025 | [arXiv](https://arxiv.org/pdf/2510.10125)<br>[Github](https://github.com/Robert-gyj/Ctrl-World) |
 | Video models are zero-shot learners and reasoners | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.20328)<br>[Blog Post](https://video-zero-shot.github.io/) |
 | **Matrix-Game 2.0**: An Open-Source, Real-Time, and Streaming Interactive World Model | 18 August 2025 | [arXiv](https://arxiv.org/pdf/2508.13009)<br>[GitHub](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) |
