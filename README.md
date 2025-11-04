@@ -3,6 +3,7 @@ A world model is a deep neural network system that learns to internally represen
 I have recently find some more resources that maintain a similar list on world models. You can checkout them out as well.
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model)
 - [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models)
+- [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)
 
 The following is a curated list of research, projects, and works related to the development of world models.
 
