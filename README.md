@@ -10,6 +10,7 @@ The following is a curated list of research, projects, and works related to the 
 | Title | Date | Links |
 | :--- | :--- | :--- |
 | SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds | 13th Nov 2025 | [Blog](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/) |
+| Marble: A Multimodal World Model | 12th Nov 2025 | [Blog](https://www.worldlabs.ai/blog/marble-world-model) |
 | Emu3.5: Native Multimodal Models are World Learners | 30th Oct 2025 | [Report](https://emu.world/Emu35_tech_report.pdf)<br>[Github](https://github.com/baaivision/Emu3.5) |
 | CTRL-WORLD: A CONTROLLABLE GENERATIVE WORLD MODEL FOR ROBOT MANIPULATION | 15th Oct 2025 | [arXiv](https://arxiv.org/pdf/2510.10125)<br>[Github](https://github.com/Robert-gyj/Ctrl-World) |
 | Video models are zero-shot learners and reasoners | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.20328)<br>[Blog Post](https://video-zero-shot.github.io/) |
@@ -36,6 +37,7 @@ The following are organizations actively involved in the development of world mo
 - [SkyworkAI](https://github.com/SkyworkAI/Matrix-Game)
 - [Hunyuan](https://hunyuan-gamecraft.github.io/)
 - [Nvidia](https://github.com/nvidia-cosmos)
+- [Worldlabs.AI](https://www.worldlabs.ai/)
 
 Talks & Podcasts
 - [Jim Fan on Nvidia's Roadmap for Embodied AI](https://youtu.be/_2NijXqBESI?si=Kg0xZbLBts_VKUkT)
