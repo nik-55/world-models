@@ -9,6 +9,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| PAN: A World Model for General, Interactable, and Long-Horizon World Simulation | 13th Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.09057) |
 | SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds | 13th Nov 2025 | [Blog](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/) |
 | Marble: A Multimodal World Model | 12th Nov 2025 | [Blog](https://www.worldlabs.ai/blog/marble-world-model) |
 | Robot Learning from a Physical World Model | 10th Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.07416)<br>[Github](https://pointscoder.github.io/PhysWorld_Web/) |
