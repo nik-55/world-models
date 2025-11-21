@@ -17,6 +17,7 @@ The following is a curated list of research, projects, and works related to the 
 | CTRL-WORLD: A CONTROLLABLE GENERATIVE WORLD MODEL FOR ROBOT MANIPULATION | 15th Oct 2025 | [arXiv](https://arxiv.org/pdf/2510.10125)<br>[Github](https://github.com/Robert-gyj/Ctrl-World) |
 | Training Agents Inside of Scalable World Models | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.24527)<br>[Blog](https://danijar.com/project/dreamer4/) |
 | Video models are zero-shot learners and reasoners | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.20328)<br>[Blog Post](https://video-zero-shot.github.io/) |
+| CAN AI PERCEIVE PHYSICAL DANGER AND INTERVENE? | 23rd Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.21651)<br>[Blog](https://asimov-benchmark.github.io/v2/) |
 | **Matrix-Game 2.0**: An Open-Source, Real-Time, and Streaming Interactive World Model | 18 August 2025 | [arXiv](https://arxiv.org/pdf/2508.13009)<br>[GitHub](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) |
 | **Genie 3**: A new frontier for world models | 5 August 2025 | [Blog Post](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) |
 | **YUME**: An Interactive World Generation Model | 23 July 2025 | [arXiv](https://arxiv.org/pdf/2507.17744)<br>[GitHub](https://github.com/stdstu12/YUME) |
