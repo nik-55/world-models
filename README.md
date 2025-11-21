@@ -43,8 +43,9 @@ The following are organizations actively involved in the development of world mo
 - [Nvidia](https://github.com/nvidia-cosmos)
 - [Worldlabs.AI](https://www.worldlabs.ai/)
 
-Talks & Podcasts
+Talks, Blogs & Podcasts
 - [Jim Fan on Nvidia's Roadmap for Embodied AI](https://youtu.be/_2NijXqBESI?si=Kg0xZbLBts_VKUkT)
+- [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
 
 
 Feel free to open a PR and contribute!  
