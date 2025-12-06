@@ -9,6 +9,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout | 25th Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.20649)<br>[Blog](https://infinity-rope.github.io/#) |
 | GigaWorld-0: World Models as Data Engine to Empower Embodied AI | 25th Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.19861) |
 | RynnVLA-002: A Unified Vision-Language-Action and World Model | 21st Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.17502)<br>[Github](https://github.com/alibaba-damo-academy/RynnVLA-002) |
 | PAN: A World Model for General, Interactable, and Long-Horizon World Simulation | 13th Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.09057) |
