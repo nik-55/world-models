@@ -17,6 +17,7 @@ The following is a curated list of research, projects, and works related to the 
 | Marble: A Multimodal World Model | 12th Nov 2025 | [Blog](https://www.worldlabs.ai/blog/marble-world-model) |
 | Robot Learning from a Physical World Model | 10th Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.07416)<br>[Github](https://pointscoder.github.io/PhysWorld_Web/) |
 | Emu3.5: Native Multimodal Models are World Learners | 30th Oct 2025 | [Report](https://emu.world/Emu35_tech_report.pdf)<br>[Github](https://github.com/baaivision/Emu3.5) |
+| World-in-World: World Models in a Closed-Loop World | 20th Oct 2025 | [arXiv](https://arxiv.org/pdf/2510.18135)<br>[Github](https://github.com/World-In-World/world-in-world) |
 | CTRL-WORLD: A CONTROLLABLE GENERATIVE WORLD MODEL FOR ROBOT MANIPULATION | 15th Oct 2025 | [arXiv](https://arxiv.org/pdf/2510.10125)<br>[Github](https://github.com/Robert-gyj/Ctrl-World) |
 | Training Agents Inside of Scalable World Models | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.24527)<br>[Blog](https://danijar.com/project/dreamer4/) |
 | Video models are zero-shot learners and reasoners | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.20328)<br>[Blog Post](https://video-zero-shot.github.io/) |
