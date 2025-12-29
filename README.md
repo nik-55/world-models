@@ -4,6 +4,7 @@ I have recently find some more resources that maintain a similar list on world m
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model)
 - [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models)
 - [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)
+- [Li-Zn-H/AwesomeWorldModels](https://github.com/Li-Zn-H/AwesomeWorldModels)
 
 The following is a curated list of research, projects, and works related to the development of world models.
 
