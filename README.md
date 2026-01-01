@@ -23,6 +23,7 @@ The following is a curated list of research, projects, and works related to the 
 | RLVR-World: Training World Models with Reinforcement Learning | 25th Oct 2025 | [arXiv](https://arxiv.org/pdf/2505.13934)<br>[Github](https://github.com/thuml/RLVR-World) |
 | World-in-World: World Models in a Closed-Loop World | 20th Oct 2025 | [arXiv](https://arxiv.org/pdf/2510.18135)<br>[Github](https://github.com/World-In-World/world-in-world) |
 | CTRL-WORLD: A CONTROLLABLE GENERATIVE WORLD MODEL FOR ROBOT MANIPULATION | 15th Oct 2025 | [arXiv](https://arxiv.org/pdf/2510.10125)<br>[Github](https://github.com/Robert-gyj/Ctrl-World) |
+| WORLDGYM: WORLD MODEL AS AN ENVIRONMENT FOR POLICY EVALUATION | 30th Sep 2025 | [arXiv](https://arxiv.org/pdf/2506.00613)<br>[Github](https://github.com/world-model-eval/world-model-eval) |
 | Training Agents Inside of Scalable World Models | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.24527)<br>[Blog](https://danijar.com/project/dreamer4/) |
 | Video models are zero-shot learners and reasoners | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.20328)<br>[Blog Post](https://video-zero-shot.github.io/) |
 | CAN AI PERCEIVE PHYSICAL DANGER AND INTERVENE? | 23rd Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.21651)<br>[Blog](https://asimov-benchmark.github.io/v2/) |
