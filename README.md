@@ -51,6 +51,10 @@ The following are organizations actively involved in the development of world mo
 - [Hunyuan](https://hunyuan-gamecraft.github.io/)
 - [Nvidia](https://github.com/nvidia-cosmos)
 - [Worldlabs.AI](https://www.worldlabs.ai/)
+- [SPAITIAL](https://www.spaitial.ai/)
+- [Runway](https://runwayml.com/)
+- [Odyssey](https://odyssey.ml/)
+- [Luma Labs](https://lumalabs.ai/)
 
 Talks, Blogs & Podcasts
 - [Jim Fan on Nvidia's Roadmap for Embodied AI](https://youtu.be/_2NijXqBESI?si=Kg0xZbLBts_VKUkT)
