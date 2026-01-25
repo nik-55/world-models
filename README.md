@@ -12,6 +12,7 @@ The following is a curated list of research, projects, and works related to the 
 | :--- | :--- | :--- |
 | HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency | 17th December 2025 | [arXiv](https://arxiv.org/pdf/2512.14614)<br>[Github](https://github.com/Tencent-Hunyuan/HY-WorldPlay) |
 | SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds | Around December 2025 | [Report](https://simworld.org/assets/white_paper.pdf)<br>[Github](https://github.com/SimWorld-AI/SimWorld) |
+| WorldScore: A Unified Evaluation Benchmark for World Generation | 29th Nov 2025 | [arXiv](https://arxiv.org/pdf/2504.00983) |
 | Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout | 25th Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.20649)<br>[Blog](https://infinity-rope.github.io/#) |
 | GigaWorld-0: World Models as Data Engine to Empower Embodied AI | 25th Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.19861) |
 | RynnVLA-002: A Unified Vision-Language-Action and World Model | 21st Nov 2025 | [arXiv](https://arxiv.org/pdf/2511.17502)<br>[Github](https://github.com/alibaba-damo-academy/RynnVLA-002) |
