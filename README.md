@@ -10,6 +10,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Advancing Open-source World Models | 28th Jan 2026 | [arXiv](https://arxiv.org/pdf/2601.20540)<br>[Github](https://github.com/Robbyant/lingbot-world) |
 | HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency | 17th December 2025 | [arXiv](https://arxiv.org/pdf/2512.14614)<br>[Github](https://github.com/Tencent-Hunyuan/HY-WorldPlay) |
 | SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds | Around December 2025 | [Report](https://simworld.org/assets/white_paper.pdf)<br>[Github](https://github.com/SimWorld-AI/SimWorld) |
 | World Models That Know When They Don’t Know: Controllable Video Generation with Calibrated Uncertainty | 5th December 2025 | [arXiv](https://arxiv.org/pdf/2512.05927)<br>[Github](https://github.com/irom-princeton/c-cubed) |
