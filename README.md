@@ -11,6 +11,7 @@ The following is a curated list of research, projects, and works related to the 
 | Title | Date | Links |
 | :--- | :--- | :--- |
 | Waymo World Model (Built on Genie 3) | 6th Feb 2026 | [Blog](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation) |
+| Astra : General Interactive World Model With Autoregressive Denoising | 27th Jan 2026 | [arXiv](https://arxiv.org/pdf/2512.08931)<br>[Github](https://github.com/EternalEvan/Astra) |
 | Advancing Open-source World Models | 28th Jan 2026 | [arXiv](https://arxiv.org/pdf/2601.20540)<br>[Github](https://github.com/Robbyant/lingbot-world) |
 | HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency | 17th December 2025 | [arXiv](https://arxiv.org/pdf/2512.14614)<br>[Github](https://github.com/Tencent-Hunyuan/HY-WorldPlay) |
 | SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds | Around December 2025 | [Report](https://simworld.org/assets/white_paper.pdf)<br>[Github](https://github.com/SimWorld-AI/SimWorld) |
