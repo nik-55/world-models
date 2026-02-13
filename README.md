@@ -6,7 +6,7 @@ I have recently find some more resources that maintain a similar list on world m
 - [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)
 - [Li-Zn-H/AwesomeWorldModels](https://github.com/Li-Zn-H/AwesomeWorldModels)
 
-[This](https://www.youtube.com/@bilawalsidhu) YouTube channel covers a lot about the landscape of world models and how technology is evolving.
+[@bilawalsidhu](https://www.youtube.com/@bilawalsidhu)'s YouTube channel covers a lot about the landscape of world models and how technology is evolving.
 
 The following is a curated list of research, projects, and works related to the development of world models.
 
