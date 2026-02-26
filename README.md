@@ -13,6 +13,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Self-Improving World Modelling with Latent Actions | 15th Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.06130)<br>[Github](https://github.com/yfqiu-nlp/swirl) |
 | Waymo World Model (Built on Genie 3) | 6th Feb 2026 | [Blog](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation) |
 | Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory | 3rd Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.02393)<br>[Github](https://github.com/MeiGen-AI/Infinite-World) |
 | Advancing Open-source World Models | 28th Jan 2026 | [arXiv](https://arxiv.org/pdf/2601.20540)<br>[Github](https://github.com/Robbyant/lingbot-world) |
