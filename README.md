@@ -16,6 +16,7 @@ The following is a curated list of research, projects, and works related to the 
 | Solaris: Building a Multiplayer Video World Model in Minecraft | 26th Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.22208)<br>[Github](https://github.com/solaris-wm/solaris)<br>[Blog](https://x.com/ojmichel4/status/2027062638417477902?s=20) |
 | Self-Improving World Modelling with Latent Actions | 15th Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.06130)<br>[Github](https://github.com/yfqiu-nlp/swirl) |
 | Waymo World Model (Built on Genie 3) | 6th Feb 2026 | [Blog](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation) |
+| Visuo-Tactile Wold Models | 5th Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.06001)<br>[Blog](https://carolinahiguera.github.io/vtml/)<br>[Post](https://x.com/carohiguerarias/status/2027435281914466685?s=20) |
 | Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory | 3rd Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.02393)<br>[Github](https://github.com/MeiGen-AI/Infinite-World) |
 | Advancing Open-source World Models | 28th Jan 2026 | [arXiv](https://arxiv.org/pdf/2601.20540)<br>[Github](https://github.com/Robbyant/lingbot-world) |
 | Astra : General Interactive World Model With Autoregressive Denoising | 27th Jan 2026 | [arXiv](https://arxiv.org/pdf/2512.08931)<br>[Github](https://github.com/EternalEvan/Astra) |
