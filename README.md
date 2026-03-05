@@ -13,6 +13,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Beyond Pixel Histories: World Models with Persistent 3D State | 3rd March 2026 | [arXiv](https://arxiv.org/pdf/2603.03482)<br>[Website](https://francelico.github.io/persist.github.io/) |
 | Solaris: Building a Multiplayer Video World Model in Minecraft | 26th Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.22208)<br>[Github](https://github.com/solaris-wm/solaris)<br>[Blog](https://x.com/ojmichel4/status/2027062638417477902?s=20) |
 | Self-Improving World Modelling with Latent Actions | 15th Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.06130)<br>[Github](https://github.com/yfqiu-nlp/swirl) |
 | Waymo World Model (Built on Genie 3) | 6th Feb 2026 | [Blog](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation) |
