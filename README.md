@@ -13,6 +13,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| LATENT PARTICLE WORLD MODELS: SELFSUPERVISED OBJECT-CENTRIC STOCHASTIC DYNAMICS MODELING | 4th March 2026 | [arXiv](https://arxiv.org/pdf/2603.04553)<br>[Tweet](https://x.com/TalDaniel8/status/2029904668982178189?s=20)<br>[Code](https://github.com/taldatech/lpwm) |
 | Interactive World Simulator for Robot Policy Training and Evaluation | 6th March 2026 | [Website](https://www.yixuanwang.me/interactive_world_sim/)<br>[Tweet](https://x.com/YunzhuLiYZ/status/2029619323778617567?s=20)<br>[arXiv](https://www.yixuanwang.me/interactive_world_sim/texts/main.pdf) |
 | Beyond Pixel Histories: World Models with Persistent 3D State | 3rd March 2026 | [arXiv](https://arxiv.org/pdf/2603.03482)<br>[Website](https://francelico.github.io/persist.github.io/) |
 | Solaris: Building a Multiplayer Video World Model in Minecraft | 26th Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.22208)<br>[Github](https://github.com/solaris-wm/solaris)<br>[Blog](https://x.com/ojmichel4/status/2027062638417477902?s=20) |
