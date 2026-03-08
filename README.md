@@ -71,11 +71,13 @@ The following are organizations actively involved in the development of world mo
 - [Runway](https://runwayml.com/)
 - [Odyssey](https://odyssey.ml/)
 - [Luma Labs](https://lumalabs.ai/)
+- [Moonlake AI](https://moonlakeai.com/)
 
 Talks, Blogs & Podcasts
 - [Jim Fan on Nvidia's Roadmap for Embodied AI](https://youtu.be/_2NijXqBESI?si=Kg0xZbLBts_VKUkT)
 - [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
 - [What is world model? (Deepmind)](https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/)
+- [Towards Efficient World Models (Moonlake)](https://x.com/moonlake/status/2029983120087470545?s=20)
 
 
 Feel free to open a PR and contribute!  
