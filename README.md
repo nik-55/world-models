@@ -14,8 +14,8 @@ The following is a curated list of research, projects, and works related to the 
 | Title | Date | Links |
 | :--- | :--- | :--- |
 | MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines | 6th March 2026 | [arXiv](https://ryanpo.com/multigen/static/pdfs/multigen.pdf)<br>[Blog](https://ryanpo.com/multigen/)<br>[Tweet](https://x.com/GordonWetzstein/status/2029966675626578416?s=20) |
-| LATENT PARTICLE WORLD MODELS: SELFSUPERVISED OBJECT-CENTRIC STOCHASTIC DYNAMICS MODELING | 4th March 2026 | [arXiv](https://arxiv.org/pdf/2603.04553)<br>[Tweet](https://x.com/TalDaniel8/status/2029904668982178189?s=20)<br>[Code](https://github.com/taldatech/lpwm) |
 | Interactive World Simulator for Robot Policy Training and Evaluation | 6th March 2026 | [Website](https://www.yixuanwang.me/interactive_world_sim/)<br>[Tweet](https://x.com/YunzhuLiYZ/status/2029619323778617567?s=20)<br>[arXiv](https://www.yixuanwang.me/interactive_world_sim/texts/main.pdf) |
+| LATENT PARTICLE WORLD MODELS: SELFSUPERVISED OBJECT-CENTRIC STOCHASTIC DYNAMICS MODELING | 4th March 2026 | [arXiv](https://arxiv.org/pdf/2603.04553)<br>[Tweet](https://x.com/TalDaniel8/status/2029904668982178189?s=20)<br>[Code](https://github.com/taldatech/lpwm) |
 | Beyond Pixel Histories: World Models with Persistent 3D State | 3rd March 2026 | [arXiv](https://arxiv.org/pdf/2603.03482)<br>[Website](https://francelico.github.io/persist.github.io/) |
 | Solaris: Building a Multiplayer Video World Model in Minecraft | 26th Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.22208)<br>[Github](https://github.com/solaris-wm/solaris)<br>[Blog](https://x.com/ojmichel4/status/2027062638417477902?s=20) |
 | Self-Improving World Modelling with Latent Actions | 15th Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.06130)<br>[Github](https://github.com/yfqiu-nlp/swirl) |
@@ -24,6 +24,7 @@ The following is a curated list of research, projects, and works related to the 
 | Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory | 3rd Feb 2026 | [arXiv](https://arxiv.org/pdf/2602.02393)<br>[Github](https://github.com/MeiGen-AI/Infinite-World) |
 | Advancing Open-source World Models | 28th Jan 2026 | [arXiv](https://arxiv.org/pdf/2601.20540)<br>[Github](https://github.com/Robbyant/lingbot-world) |
 | Astra : General Interactive World Model With Autoregressive Denoising | 27th Jan 2026 | [arXiv](https://arxiv.org/pdf/2512.08931)<br>[Github](https://github.com/EternalEvan/Astra) |
+| PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation | 7th Jan 2026 | [arXiv](https://arxiv.org/pdf/2601.03782)<br>[Github](https://github.com/NVlabs/PointWorld) |
 | HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency | 17th December 2025 | [arXiv](https://arxiv.org/pdf/2512.14614)<br>[Github](https://github.com/Tencent-Hunyuan/HY-WorldPlay) |
 | SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds | Around December 2025 | [Report](https://simworld.org/assets/white_paper.pdf)<br>[Github](https://github.com/SimWorld-AI/SimWorld) |
 | World Models That Know When They Don’t Know: Controllable Video Generation with Calibrated Uncertainty | 5th December 2025 | [arXiv](https://arxiv.org/pdf/2512.05927)<br>[Github](https://github.com/irom-princeton/c-cubed) |
