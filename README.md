@@ -6,6 +6,7 @@ Checkout the following resources that maintain more exhaustive list on world mod
 - [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)
 - [Li-Zn-H/AwesomeWorldModels](https://github.com/Li-Zn-H/AwesomeWorldModels)
 - [gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion)
+- [worldbench/awesome-3d-4d-world-models](https://github.com/worldbench/awesome-3d-4d-world-models)
 
 [@bilawalsidhu](https://www.youtube.com/@bilawalsidhu)'s YouTube channel covers a lot about the landscape of world models and how technology is evolving.
 
