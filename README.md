@@ -14,6 +14,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis | 16th March 2026 | [arXiv](https://arxiv.org/pdf/2603.15583)<br>[Code](https://github.com/naver-ai/seoul-world-model)<br>[Website](https://seoul-world-model.github.io/#tldr) |
 | Temporal Straightening for Latent Planning | 12th March 2026 | [arXiv](https://arxiv.org/pdf/2603.12231)<br>[Blog](https://agenticlearning.ai/temporal-straightening/)<br>[Code](https://github.com/agentic-learning-ai-lab/temporal-straightening) |
 | InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model | 12th March 2026 | [arXiv](https://arxiv.org/pdf/2603.11911)<br>[Blog](https://inspatio.github.io/worldfm/)<br>[Github](https://github.com/inspatio/worldfm) |
 | MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines | 6th March 2026 | [arXiv](https://ryanpo.com/multigen/static/pdfs/multigen.pdf)<br>[Blog](https://ryanpo.com/multigen/)<br>[Tweet](https://x.com/GordonWetzstein/status/2029966675626578416?s=20) |
