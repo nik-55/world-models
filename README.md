@@ -49,6 +49,7 @@ The following is a curated list of research, projects, and works related to the 
 | Video models are zero-shot learners and reasoners | 29th Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.20328)<br>[Blog Post](https://video-zero-shot.github.io/) |
 | CAN AI PERCEIVE PHYSICAL DANGER AND INTERVENE? | 23rd Sep 2025 | [arXiv](https://arxiv.org/pdf/2509.21651)<br>[Blog](https://asimov-benchmark.github.io/v2/) |
 | **Matrix-Game 2.0**: An Open-Source, Real-Time, and Streaming Interactive World Model | 18 August 2025 | [arXiv](https://arxiv.org/pdf/2508.13009)<br>[GitHub](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) |
+| Magica 2 by Dynamics lab | NA | [Blog](https://blog.dynamicslab.ai/) |
 | **Genie 3**: A new frontier for world models | 5 August 2025 | [Blog Post](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) |
 | **YUME**: An Interactive World Generation Model | 23 July 2025 | [arXiv](https://arxiv.org/pdf/2507.17744)<br>[GitHub](https://github.com/stdstu12/YUME) |
 | **Cosmos**: World Foundation Model Platform for Physical AI | 9 July 2025 | [arXiv](https://arxiv.org/pdf/2501.03575) |
@@ -64,8 +65,6 @@ The following is a curated list of research, projects, and works related to the 
 | **Genie**: Generative Interactive Environments | 23 February 2024 | [Publication](https://deepmind.google/research/publications/60474/)<br>[arXiv](https://arxiv.org/pdf/2402.15391) |
 | Video generation models as world simulators (**Sora**) | 15 February 2024 | [Blog Post](https://openai.com/index/video-generation-models-as-world-simulators/) |
 
-Also checkout Magica 2 by [Dynamics lab](https://blog.dynamicslab.ai/).  It is similar to Genie 3, however unable to find much more information.
-
 The following are organizations actively involved in the development of world models
 - [Google DeepMind](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 - [SkyworkAI](https://github.com/SkyworkAI/Matrix-Game)
@@ -77,6 +76,9 @@ The following are organizations actively involved in the development of world mo
 - [Odyssey](https://odyssey.ml/)
 - [Luma Labs](https://lumalabs.ai/)
 - [Moonlake AI](https://moonlakeai.com/)
+
+Frameworks & Tools:
+- [Unified Codebase for Advanced World Models](https://github.com/OpenDCAI/OpenWorldLib)
 
 Talks, Blogs & Podcasts
 - [Jim Fan on Nvidia's Roadmap for Embodied AI](https://youtu.be/_2NijXqBESI?si=Kg0xZbLBts_VKUkT)
