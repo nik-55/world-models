@@ -36,6 +36,7 @@ The following is a curated list of research, projects, and works related to the 
 | Title | Date | Links |
 | :--- | :--- | :--- |
 | VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs | 18th March 2026 | [arXiv](https://arxiv.org/pdf/2603.17652)<br>[Code](https://github.com/jiangchaokang/VectorWorld)<br>[Website](https://jiangchaokang.github.io/VectorWorld/) |
+| MosaicMem: Hybrid Spatial Memory for Controllable Video World Models | 17th March 2026 | [arXiv](https://arxiv.org/pdf/2603.17117)<br>[Website](https://mosaicmem.github.io/mosaicmem/)<br>[Tweet](https://x.com/GnosisYu/status/2035022202198765655?s=20) |
 | Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis | 16th March 2026 | [arXiv](https://arxiv.org/pdf/2603.15583)<br>[Code](https://github.com/naver-ai/seoul-world-model)<br>[Website](https://seoul-world-model.github.io/#tldr) |
 | Temporal Straightening for Latent Planning | 12th March 2026 | [arXiv](https://arxiv.org/pdf/2603.12231)<br>[Blog](https://agenticlearning.ai/temporal-straightening/)<br>[Code](https://github.com/agentic-learning-ai-lab/temporal-straightening) |
 | InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model | 12th March 2026 | [arXiv](https://arxiv.org/pdf/2603.11911)<br>[Blog](https://inspatio.github.io/worldfm/)<br>[Github](https://github.com/inspatio/worldfm) |
