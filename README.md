@@ -30,6 +30,7 @@ Talks, Blogs & Podcasts
 - [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
 - [What is world model? (Deepmind)](https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/)
 - [Towards Efficient World Models (Moonlake)](https://x.com/moonlake/status/2029983120087470545?s=20)
+- [World Models: Computing the Uncomputable](https://www.notboring.co/p/world-models)
 
 The following is a curated list of research, projects, and works related to the development of world models.
 
