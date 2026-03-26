@@ -31,6 +31,7 @@ Talks, Blogs & Podcasts
 - [What is world model? (Deepmind)](https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/)
 - [Towards Efficient World Models (Moonlake)](https://x.com/moonlake/status/2029983120087470545?s=20)
 - [World Models: Computing the Uncomputable](https://www.notboring.co/p/world-models)
+- [Will World Models Allow Robots to Think?](https://x.com/chris_j_paxton/status/2037037923523023250?s=20)
 
 The following is a curated list of research, projects, and works related to the development of world models.
 
