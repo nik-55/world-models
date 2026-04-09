@@ -21,8 +21,7 @@ The following are organizations actively involved in the development of world mo
 - [Odyssey](https://odyssey.ml/)
 - [Luma Labs](https://lumalabs.ai/)
 - [Moonlake AI](https://moonlakeai.com/)
-
-[List of YC's backed Companies](https://www.ycombinator.com/companies?query=world%20models)
+- [List of YC's backed labs](https://www.ycombinator.com/companies?query=world%20models)
 
 Frameworks & Tools:
 - [Unified Codebase for Advanced World Models](https://github.com/OpenDCAI/OpenWorldLib)
@@ -40,6 +39,7 @@ The following is a curated list of research, projects, and works related to the 
 | Title | Date | Links |
 | :--- | :--- | :--- |
 | A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens | 6th April 2026 | [arXiv](https://arxiv.org/pdf/2604.04913)<br>[Code](https://github.com/amazon-far/deltatok)<br>[Tweet](https://x.com/tommiekerssies/status/2042230837161435585?s=20) |
+| Hierarchical Planning with Latent World Models | 3rd April 2026 | [arXiv](https://arxiv.org/pdf/2604.03208)<br>[Code](https://github.com/kevinghst/HWM_PLDM)<br>[Tweet](https://x.com/robotsdigest/status/2041858667113545774?s=20) |
 | VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs | 18th March 2026 | [arXiv](https://arxiv.org/pdf/2603.17652)<br>[Code](https://github.com/jiangchaokang/VectorWorld)<br>[Website](https://jiangchaokang.github.io/VectorWorld/) |
 | MosaicMem: Hybrid Spatial Memory for Controllable Video World Models | 17th March 2026 | [arXiv](https://arxiv.org/pdf/2603.17117)<br>[Website](https://mosaicmem.github.io/mosaicmem/)<br>[Tweet](https://x.com/GnosisYu/status/2035022202198765655?s=20) |
 | Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis | 16th March 2026 | [arXiv](https://arxiv.org/pdf/2603.15583)<br>[Code](https://github.com/naver-ai/seoul-world-model)<br>[Website](https://seoul-world-model.github.io/#tldr) |
