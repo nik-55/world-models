@@ -22,6 +22,8 @@ The following are organizations actively involved in the development of world mo
 - [Luma Labs](https://lumalabs.ai/)
 - [Moonlake AI](https://moonlakeai.com/)
 
+[List of YC's backed Companies](https://www.ycombinator.com/companies?query=world%20models)
+
 Frameworks & Tools:
 - [Unified Codebase for Advanced World Models](https://github.com/OpenDCAI/OpenWorldLib)
 
