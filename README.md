@@ -34,10 +34,17 @@ Talks, Blogs & Podcasts
 - [World Models: Computing the Uncomputable](https://www.notboring.co/p/world-models)
 - [Will World Models Allow Robots to Think?](https://x.com/chris_j_paxton/status/2037037923523023250?s=20)
 
+Benchmarks & Evaluations  
+
+| Title | Links |
+| :--- | :--- |
+| Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models | [arXiv](https://arxiv.org/pdf/2603.22212)<br>[Github](https://github.com/AMAP-ML/Omni-WorldBench) |
+
 The following is a curated list of research, projects, and works related to the development of world models.
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| DreamX-World: A General-Purpose Interactive World Model | 15th April 2026 | [Github](https://github.com/AMAP-ML/DreamX-World) |
 | Zero-shot World Models Are Developmentally Efficient Learners | 11th April 2026 | [arXiv](https://arxiv.org/pdf/2604.10333)<br>[Code](https://github.com/awwkl/ZWM)<br>[Tweet](https://x.com/khai_loong_aw/status/2044051456672838122?s=20) |
 | A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens | 6th April 2026 | [arXiv](https://arxiv.org/pdf/2604.04913)<br>[Code](https://github.com/amazon-far/deltatok)<br>[Tweet](https://x.com/tommiekerssies/status/2042230837161435585?s=20) |
 | Hierarchical Planning with Latent World Models | 3rd April 2026 | [arXiv](https://arxiv.org/pdf/2604.03208)<br>[Code](https://github.com/kevinghst/HWM_PLDM)<br>[Tweet](https://x.com/robotsdigest/status/2041858667113545774?s=20) |
