@@ -38,6 +38,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Zero-shot World Models Are Developmentally Efficient Learners | 11th April 2026 | [arXiv](https://arxiv.org/pdf/2604.10333)<br>[Code](https://github.com/awwkl/ZWM)<br>[Tweet](https://x.com/khai_loong_aw/status/2044051456672838122?s=20) |
 | A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens | 6th April 2026 | [arXiv](https://arxiv.org/pdf/2604.04913)<br>[Code](https://github.com/amazon-far/deltatok)<br>[Tweet](https://x.com/tommiekerssies/status/2042230837161435585?s=20) |
 | Hierarchical Planning with Latent World Models | 3rd April 2026 | [arXiv](https://arxiv.org/pdf/2604.03208)<br>[Code](https://github.com/kevinghst/HWM_PLDM)<br>[Tweet](https://x.com/robotsdigest/status/2041858667113545774?s=20) |
 | VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs | 18th March 2026 | [arXiv](https://arxiv.org/pdf/2603.17652)<br>[Code](https://github.com/jiangchaokang/VectorWorld)<br>[Website](https://jiangchaokang.github.io/VectorWorld/) |
