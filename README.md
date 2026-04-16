@@ -44,6 +44,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds | 16th April | [Report](https://3d-models.hunyuan.tencent.com/world/world2_0/HY_World_2_0.pdf)<br>[Tweet](https://x.com/TencentHunyuan/status/2044604754836505076?s=20)<br>[Github](https://github.com/Tencent-Hunyuan/HY-World-2.0) |
 | DreamX-World: A General-Purpose Interactive World Model | 15th April 2026 | [Github](https://github.com/AMAP-ML/DreamX-World) |
 | Zero-shot World Models Are Developmentally Efficient Learners | 11th April 2026 | [arXiv](https://arxiv.org/pdf/2604.10333)<br>[Code](https://github.com/awwkl/ZWM)<br>[Tweet](https://x.com/khai_loong_aw/status/2044051456672838122?s=20) |
 | A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens | 6th April 2026 | [arXiv](https://arxiv.org/pdf/2604.04913)<br>[Code](https://github.com/amazon-far/deltatok)<br>[Tweet](https://x.com/tommiekerssies/status/2042230837161435585?s=20) |
