@@ -44,6 +44,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Echo-2: Physically-grounded 3D World Generation | 27th April 2026 | [Blog](http://spaitial.ai/blog/echo-2-release)<br>[Tweet](https://x.com/SpAItial_AI/status/2049111712964501728?s=20) |
 | MultiWorld: Scalable Multi-Agent Multi-View Video World Models | 20th April 2026 | [arXiv](https://arxiv.org/pdf/2604.18564)<br>[Tweet](https://x.com/XihuiLiu/status/2047476834376601721?s=20)<br>[Code](https://github.com/CIntellifusion/MultiWorld) |
 | HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds | 16th April 2026 | [Report](https://3d-models.hunyuan.tencent.com/world/world2_0/HY_World_2_0.pdf)<br>[Tweet](https://x.com/TencentHunyuan/status/2044604754836505076?s=20)<br>[Github](https://github.com/Tencent-Hunyuan/HY-World-2.0) |
 | DreamX-World: A General-Purpose Interactive World Model | 15th April 2026 | [Github](https://github.com/AMAP-ML/DreamX-World) |
