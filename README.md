@@ -34,6 +34,10 @@ Talks, Blogs & Podcasts
 - [World Models: Computing the Uncomputable](https://www.notboring.co/p/world-models)
 - [Will World Models Allow Robots to Think?](https://x.com/chris_j_paxton/status/2037037923523023250?s=20)
 
+Interesting Discussions on X:
+- [three definitions. three timelines. three completely different implications](https://x.com/natashamalpani/status/2042116035290263818?s=20)
+- 
+
 Benchmarks & Evaluations  
 
 | Title | Links |
