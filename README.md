@@ -1,5 +1,20 @@
 A world model is a deep neural network system that learns to internally represent and simulate how the world works including its physical dynamics, objects, agents, and causal relationships so that it can predict how environments evolve and how actions will affect them. Instead of passively recognizing patterns, a world model builds an active understanding of change, enabling it to generate, imagine, and interact with coherent virtual worlds over time.
 
+<details>
+<summary><b>WHY WE MUST BUILD WORLD MODELS</b> (Click to expand)</summary>
+
+> Most of the world exists outside language. Humans do not learn solely through text or explicit instruction. We learn through observation, interaction, experimentation, prediction, and experience. From infancy, we build internal models of reality by engaging directly with the world around us. Language captures only a small fraction of that process.
+>
+> To create systems capable of understanding the world, we must move beyond training AI exclusively on written text. Machines must be able to observe their environments, understand physical interactions, anticipate outcomes, and reason about changes over time. World models are a step in that direction. They allow intelligent systems to form rich representations of environments and simulate possible futures before actions are taken.
+>
+> Rather than merely predicting the next token, world models aim to predict the consequences of actions and how environments evolve over time. A system that truly understands the world cannot rely on language alone. It must learn from the structure, motion, causality, and sensory richness of reality.
+>
+> **Most of reality is never written down.**
+>
+> — [Source](https://x.com/odysseyml/status/2052405633035510242?s=20)
+
+</details>
+
 Checkout the following resources that maintain more exhaustive list on world models research:
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model)
 - [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models)
