@@ -68,6 +68,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Starchild-1: A Real-Time Multimodal World Model | 18th May 2026 | [Tweet](https://x.com/olivercameron/status/2056414552276029677?s=20)<br>[Blog](https://odyssey.ml/introducing-starchild-1)<br>[Technical Report](https://starchild.odyssey.ml/starchild-1.pdf) |
 | SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer | 14th May 2026 | [Code](https://github.com/NVlabs/Sana/)<br>[Tweet](https://x.com/HaoyiZhu/status/2055132732339126764?s=20)<br>[Paper](https://arxiv.org/pdf/2605.15178)<br>[Blog](https://nvlabs.github.io/Sana/WM/) |
 | Echo-2: Physically-grounded 3D World Generation | 27th April 2026 | [Blog](http://spaitial.ai/blog/echo-2-release)<br>[Tweet](https://x.com/SpAItial_AI/status/2049111712964501728?s=20) |
 | MultiWorld: Scalable Multi-Agent Multi-View Video World Models | 20th April 2026 | [arXiv](https://arxiv.org/pdf/2604.18564)<br>[Tweet](https://x.com/XihuiLiu/status/2047476834376601721?s=20)<br>[Code](https://github.com/CIntellifusion/MultiWorld) |
