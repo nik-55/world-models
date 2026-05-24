@@ -55,6 +55,7 @@ Talks, Blogs & Podcasts
 - [Beyond the Hype: How I See World Models Evolving in 2025](https://knightnemo.github.io/blog/posts/wm_2025/)
 - [A Gentle Introduction to World Models](https://neurallens.substack.com/p/a-gentle-introduction-to-world-models)
 - [But what exactly are world models?](https://youtu.be/MqjvfJTCuqw?si=GTGrE-X15ifpX-Ic)
+- [Gemini Co-Lead on World Models, RL's Next Domains & Continual Learning](https://youtu.be/NQczevdpxq0?si=ZUbDjudU34jwcMxn)
 
 Interesting Discussions on X:
 - [three definitions. three timelines. three completely different implications](https://x.com/natashamalpani/status/2042116035290263818?s=20)
