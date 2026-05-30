@@ -45,6 +45,7 @@ Emerging Player
 Frameworks & Tools:
 - [Unified Codebase for Advanced World Models](https://github.com/OpenDCAI/OpenWorldLib)
 - [Platform for reproducible world model research and evaluation](https://github.com/galilai-group/stable-worldmodel)
+- [A Minimal and Elegant Framework & Tutorial for Real-Time Interactive World Models](https://github.com/shengshu-ai/minWM)
 
 Talks, Blogs & Podcasts
 - [Jim Fan on Nvidia's Roadmap for Embodied AI](https://youtu.be/_2NijXqBESI?si=Kg0xZbLBts_VKUkT)
