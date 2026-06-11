@@ -74,6 +74,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics | 4th June 2026 | [arXiv](https://arxiv.org/pdf/2606.04463)<br>[Tweet](https://x.com/JunGao33210520/status/2064813918099214640?s=20)<br>[Github](https://github.com/wuzy2115/oscar-public) |
 | Physical Object Understanding with a Physically Controllable World Model | 30 May 2026 | [arXiv](https://arxiv.org/pdf/2606.00439)<br>[Blog](https://neuroailab.github.io/psi-website/blog/physical-object-understanding.html)<br>[Tweet](https://x.com/Rahul_Venkatesh/status/2062521845795209663?s=20) |
 | Agora-1: The Multi-Agent World Model | 18th May 2026 | [Tweet](https://x.com/odysseyml/status/2056427523668668643?s=20)<br>[Try](https://agora.odyssey.ml/)<br>[Blog](https://odyssey.ml/introducing-agora-1) |
 | Starchild-1: A Real-Time Multimodal World Model | 18th May 2026 | [Tweet](https://x.com/olivercameron/status/2056414552276029677?s=20)<br>[Blog](https://odyssey.ml/introducing-starchild-1)<br>[Technical Report](https://starchild.odyssey.ml/starchild-1.pdf) |
