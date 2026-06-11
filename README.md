@@ -59,6 +59,7 @@ Talks, Blogs & Podcasts
 - [But what exactly are world models?](https://youtu.be/MqjvfJTCuqw?si=GTGrE-X15ifpX-Ic)
 - [Gemini Co-Lead on World Models, RL's Next Domains & Continual Learning](https://youtu.be/NQczevdpxq0?si=ZUbDjudU34jwcMxn)
 - [None of them mean the same thing by "world model"](https://www.linkedin.com/posts/sunmichelle_nvidias-jim-fan-former-meta-chief-ai-scientist-share-7468463347202424832-brwU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDOV9MBlApasGWm8lhD3Ln-qkuWs8711Mg)
+- [A Functional Taxonomy of World Models by Fei-Fei Li](https://x.com/drfeifei/status/2062247238143996275?s=20)
 
 Interesting Discussions on X:
 - [three definitions. three timelines. three completely different implications](https://x.com/natashamalpani/status/2042116035290263818?s=20)
