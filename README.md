@@ -70,6 +70,7 @@ Benchmarks & Evaluations
 | Title | Links |
 | :--- | :--- |
 | Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models | [arXiv](https://arxiv.org/pdf/2603.22212)<br>[Github](https://github.com/AMAP-ML/Omni-WorldBench) |
+| WorldModelGym: a decision-based fidelity benchmark for world models | [Blog](https://reka.ai/labs/research/worldmodelgym)<br>[Tweet](https://x.com/RekaAILabs/status/2072731356011045088?s=20) |
 
 The following is a curated list of research, projects, and works related to the development of world models.
 
