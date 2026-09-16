@@ -77,6 +77,7 @@ The following is a curated list of research, projects, and works related to the 
 | Title | Date | Links |
 | :--- | :--- | :--- |
 | Odyssey-3 | 15th Sep 2026 | [Tweet](https://x.com/odysseyml/status/2099900067356586276?s=20)<br>[Blog](https://odyssey.systems/introducing-odyssey-3) |
+| Atlas: A World Model for Spatial Intelligence | 1st Sep 2026 | [Tweet](https://x.com/theworldlabs/status/2094839756329041984?s=20)<br>[Blog](https://www.worldlabs.ai/blog/atlas) |
 | Solaris (Interface WM) | 31st Aug 2026 | [Tweet](https://x.com/runwayml/status/2094463070466646019?s=20)<br>[Blog](https://runway.com/news/research/introducing-solaris) |
 | MIRA: Multiplayer Interactive World Models with Representation Autoencoders | 7th July 2026 | [Report](https://mira-wm.com/paper/)<br>[Code](https://github.com/mira-wm/mira)<br>[Tweet](https://x.com/gen_intuition/status/2074104524596457706?s=20) |
 | Learning to Theorize the World from Observation | 4th June 2026 | [arXiv](https://arxiv.org/pdf/2605.03413)<br>[Blog](https://doojinbaek.github.io/publications/learning-to-theorize-the-world/)<br>[Tweet](https://x.com/SungjinAhn_/status/2072230094614237320?s=20) | 
