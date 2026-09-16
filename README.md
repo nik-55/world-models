@@ -76,6 +76,7 @@ The following is a curated list of research, projects, and works related to the 
 
 | Title | Date | Links |
 | :--- | :--- | :--- |
+| Odyssey-3 | 15th Sep 2026 | [Tweet](https://x.com/odysseyml/status/2099900067356586276?s=20)<br>[Blog](https://odyssey.systems/introducing-odyssey-3) |
 | MIRA: Multiplayer Interactive World Models with Representation Autoencoders | 7th July 2026 | [Report](https://mira-wm.com/paper/)<br>[Code](https://github.com/mira-wm/mira)<br>[Tweet](https://x.com/gen_intuition/status/2074104524596457706?s=20) |
 | Learning to Theorize the World from Observation | 4th June 2026 | [arXiv](https://arxiv.org/pdf/2605.03413)<br>[Blog](https://doojinbaek.github.io/publications/learning-to-theorize-the-world/)<br>[Tweet](https://x.com/SungjinAhn_/status/2072230094614237320?s=20) | 
 | OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics | 4th June 2026 | [arXiv](https://arxiv.org/pdf/2606.04463)<br>[Tweet](https://x.com/JunGao33210520/status/2064813918099214640?s=20)<br>[Github](https://github.com/wuzy2115/oscar-public) |
